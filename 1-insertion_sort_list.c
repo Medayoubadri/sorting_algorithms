@@ -1,5 +1,4 @@
 #include "sort.h"
-#include <stdio.h>
 
 /**
  * swap_nodes - Swaps two nodes in a doubly linked list
